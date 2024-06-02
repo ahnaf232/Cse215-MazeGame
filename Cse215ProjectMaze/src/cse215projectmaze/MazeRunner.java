@@ -147,7 +147,7 @@ public class MazeRunner {
                 System.exit(0);
             }
         } else {
-            System.out.println("Sorry, you've hit a wall.");
+            //System.out.println("Sorry, you've hit a wall.");
         }
     }
 
